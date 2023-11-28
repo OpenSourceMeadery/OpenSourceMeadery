@@ -1,0 +1,1 @@
+This is a repository to store media, data, journals, and logs regarding my experiments in mead making. I use Obsidian for note-taking, so this likely will only ever be updated at the time of label making for each batch. Feel free to use my recipes, processes, and experiences to enhance your own.
