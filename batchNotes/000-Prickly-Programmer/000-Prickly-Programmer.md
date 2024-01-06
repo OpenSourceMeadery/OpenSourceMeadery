@@ -1,7 +1,10 @@
 
 **Brew Number:**        000
-**Brew CodeName:**      Prickly Programmer
-**Brew Description:**   A prickly pear and hibiscus melomel 
+
+**Brew CodeName:**      Passion Potion
+
+**Brew Description:**   A prickly pear and hibiscus melomel with notes of passionfruit
+
 **ABV:** Potential ABV ~15%
 
 ###### Specific Gravity Readings:
@@ -58,3 +61,11 @@ Secondary Rack: 1.013
 **25nd of Nov** - 3m 57.8seconds per bubble.
 
 **28th of Nov** - The mead is getting pretty clear, I can see the individual LEDS in a mag light through the fermenter now. It's still a really dark purple color when a flashlight isn't shining through. With the flashlight shining through it looks a similar vibrant glowing red color as a health potion from any video game. It's quite beautiful to look at.
+
+**20th of Dec** - Added 4 tsp of Pectic Enzyme
+
+**2nd of Jan 2024** - SG 1.012, ~3ph stabilized with 1.25g of potassium metabisulphite and 1.92g of potassium sorbate. THIS SHIT IS SO CLEAR!
+
+**3rd of Jan** - Bottled. 
+
+Notes for next time: Brew bags for tea. Bentonite before fermentation. Pectin Enzyme and maceration before fermentation. Easier to do primary in a bucket. TOSNA calculator for nutes.
